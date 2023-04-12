@@ -87,7 +87,11 @@ Majority of the code provided except for the cell where the Q Learning algorithm
 
         if len(win_history) > hsize:
             win_rate = sum(win_history[-hsize:]) / hsize
-
+            
+            
+ Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+- 
+This is a code snippet for a reinforcement learning algorithm in Python. The algorithm trains a neural network to navigate a maze using Q-learning, a model-free algorithm that uses a state-value function to estimate the optimal action-value function. The code initializes a QMaze object that defines the maze environment, and an Experience object that stores the agent's experiences. The algorithm then performs a specified number of epochs, where each epoch involves resetting the maze and running the agent through it until it reaches the end. At each step, the agent chooses an action either by exploration or by exploitation and stores the experience in the Experience object. After a certain number of experiences are stored, the neural network is trained on the data in the Experience object using batch learning. The win rate of the agent is also tracked over time to monitor performance. The code includes several hints on how to use methods from the QMaze, TreasureMaze, and GameExperience classes. There are no specific ethical concerns in this code snippet.
 
 **What do computer scientists do and why does it matter?**
 
