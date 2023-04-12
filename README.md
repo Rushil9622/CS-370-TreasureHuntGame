@@ -1,9 +1,11 @@
 # CS-370-TreasureHuntGame
 
-Provided
+**Provided**
+
 Majority of the code provided except for the cell where the Q Learning algorithm core logic was implemented.
 
-Code Created
+**Code Created**
+
 # For each epoch:
 
     for epoch in range(n_epoch):
@@ -87,13 +89,16 @@ Code Created
             win_rate = sum(win_history[-hsize:]) / hsize
 
 
-What do computer scientists do and why does it matter?
+**What do computer scientists do and why does it matter?**
+
 Computer scientists are the people who develop new technologies and software. They design and create the apps, websites, and programs that we use every day. Computer scientists have a big responsibility to make sure that their creations are safe for their users. They also have to make sure that they are not violating privacy rights or copyright laws. In addition to creating new technologies, computer scientists also work on improving existing ones. They conduct research in order to find ways for computers to do more tasks or become faster.
 
-How do I approach a problem as a computer scientist?
+**How do I approach a problem as a computer scientist?**
+
 When approaching a problem as a computer scientist, it is important to understand the problem. This means that one should have an idea of what is being done and why it needs to be done. One should also know what the desired outcome is for this problem.
 
 There are some steps that one can take when solving a problem as a computer scientist. First, identify the goal or objective of the problem. Second, make sure that you understand your resources and constraints. Third, think about possible solutions or approaches to solving the problem by using your resources in an efficient way. Fourth, implement your solution and test it to see if it solves your problem or not. Fifth, reflect on why you made certain decisions and how they affected the outcome of your solution
 
-What are my ethical responsibilities to the end user and the organization?
+**What are my ethical responsibilities to the end user and the organization?**
+
 Ethical responsibility is an important topic in computer science. Computer scientists should not just focus on creating a new technology or solving a technical problem, but also consider how their work may affect society as a whole. If a computer scientist is working for an organization, they should make sure that they are not harming people in any way and also respect their privacy to avoid any potential conflicts of interest.
